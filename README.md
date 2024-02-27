@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohammad Wasim Tikki</h1> 
+<h1 align="center">Hi 👋, I'm Mohammed Salman Uddin</h1> 
 <h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="code" width="400" >
 
 - 🌱 I’m currently learning **Python , MySQL , webDevelopment**
 
-- 💬 Ask me about **Python, AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
+- 💬 Ask me about **Python, MySQL, JavaScript, Bootstrap, Django ...**
 
-- 📫 How to reach me [**Wasim Tikki**](mailto:m.wasimtikki@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
+- 📫 How to reach me [**Mohammed Salman Uddin**](mailto:salmanuddin21yr@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tikkiwasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tikkiwasim" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-wasim-tikki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad wasim tikki" height="30" width="40" /></a>
-<a href="https://instagram.com/wasim_tikki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasim_tikki" height="30" width="40" /></a>
+<a href="https://twitter.com/mohd_salman_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohammed Salman Uddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammedsalmanuddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Salman Uddin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/perksofbeingrealistic.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wasim_tikki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
