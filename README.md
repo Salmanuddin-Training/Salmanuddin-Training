@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="code" width="400" >
 
-- 🌱 I’m currently learning **Python , MySQL , webDevelopment**
+- 🌱 I’m currently learning **AWS , DevOps , Odoo**
 
 - 💬 Ask me about **Python, MySQL, JavaScript, Bootstrap, Django ...**
 
